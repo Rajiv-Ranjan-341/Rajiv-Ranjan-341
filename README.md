@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Rajiv Ranjan
+**A passionate AIML Engineer**
+
+Email Me 👉 ✉️ **rajeevranjan3412@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** rajeevranjan3412@gmail.com
+- 😄 **Pronouns:** Rajiv
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajiv Ranjan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajivranjan3412@gmail.com) 
@@ -20,5 +31,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajiv-Ranjan-341&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
