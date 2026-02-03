@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **rajeevranjan3412@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
+- 🔭 **I’m currently working on:** A speech to speech model
+- 🌱 **I’m currently learning:** AI agents
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rajeevranjan3412@gmail.com
 - 😄 **Pronouns:** Rajiv
