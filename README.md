@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **rajeevranjan3412@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** A speech to speech model
+- 🔭 **I’m currently working on:** A sign to speech model
 - 🌱 **I’m currently learning:** AI agents
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rajeevranjan3412@gmail.com
