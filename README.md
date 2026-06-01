@@ -1,11 +1,30 @@
 # 💫 Hi 👋, I'm Rajiv Ranjan
 **A passionate AIML Engineer**
 
-Email Me 👉 ✉️ **rajeevranjan3412@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+# Hi, I'm Rajiv 👋
 
-- 🔭 **I’m currently working on:** A sign to speech model
-- 🌱 **I’m currently learning:** AI agents
-- 💬 **Ask me about:** Collaboration, Tech Support
+🎓 Computer Science (AIML) Undergraduate at UPES (2023–2027)
+🤖 Passionate about Artificial Intelligence & Machine Learning
+📚 Focused on learning through practice, experimentation, and problem-solving
+
+I enjoy understanding how intelligent systems work by breaking concepts down and exploring them deeply. My interest lies in AI, machine learning, data, algorithms, and the logic behind decision-making systems.
+
+I prefer depth over distraction — staying focused, building consistently, and improving step by step. I believe strong fundamentals, discipline, and continuous learning are the foundation of meaningful innovation.
+
+Currently, I’m exploring:
+
+* Machine Learning & Deep Learning
+* Data Structures & Algorithms
+* Computer Vision & AI Applications
+* Model Building and Experimentation
+* Problem Solving with Python & C++
+
+My goal is to grow into an engineer who can build impactful AI-driven solutions that solve real-world problems.
+
+> “Progress over noise. Consistency over shortcuts.”
+
+Thanks for visiting my profile!
+
 - 📫 **How to reach me:** rajeevranjan3412@gmail.com
 - 😄 **Pronouns:** Rajiv
 - ⚡ **Fun fact:** Building is the only things I am good at.
