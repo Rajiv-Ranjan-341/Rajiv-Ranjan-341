@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Rajiv Ranjan
 **A passionate AIML Engineer**
 
-# Hi, I'm Rajiv 👋
-
 🎓 Computer Science (AIML) Undergraduate at UPES (2023–2027)
 🤖 Passionate about Artificial Intelligence & Machine Learning
 📚 Focused on learning through practice, experimentation, and problem-solving
